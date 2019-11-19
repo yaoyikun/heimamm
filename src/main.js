@@ -6,6 +6,9 @@ import ElementUI from 'element-ui';
 import 'element-ui/lib/theme-chalk/index.css';
 // 导入 根组件
 import App from './App.vue'
+
+//导入全局css样式
+import './style/base.css'
 // 导入 路由
 import router from './router/router.js'
 //是否显示生产提示
