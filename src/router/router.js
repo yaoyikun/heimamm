@@ -1,7 +1,6 @@
 // 导入Vue
 import Vue from 'vue';
 // 导入路由
-// import router from 'vue-router';
 import VueRouter from 'vue-router';
 
 // 注册路由

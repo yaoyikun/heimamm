@@ -7,7 +7,7 @@ import 'element-ui/lib/theme-chalk/index.css';
 // 导入 根组件
 import App from './App.vue'
 // 导入 路由
-import router from './router'
+import router from './router/router.js'
 //是否显示生产提示
 Vue.config.productionTip = false
 // 注册 Element-ui
